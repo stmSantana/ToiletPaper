@@ -1,7 +1,8 @@
 # ToiletPaper
 ![Toilet paper](Images/Tut0-0.jpg "Toilet paper")
 
-TLD Mod
+Add toilet paper to The Long Dark.
+Items can be found in toilets around the world. You can also find it in drawers and cabinets.
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
