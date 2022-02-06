@@ -1,6 +1,7 @@
 # ToiletPaper
-TLD Mod
 ![Toilet paper](Images/Tut0-0.jpg "Toilet paper")
+
+TLD Mod
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
