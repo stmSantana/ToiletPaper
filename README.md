@@ -1,6 +1,7 @@
 # ToiletPaper
 Add toilet paper to The Long Dark.
 Items can be found in toilets around the world. You can also find it in drawers and cabinets.
+I created this little mod to write [a tutorial on how to create a TLD item mod](https://github.com/stmSantana/ModComponentDocs).
 ![Toilet paper1](Images/TPSS1.jpg "Toilet paper1")
 ![Toilet paper2](Images/TPSS2.jpg "Toilet paper2")
 ![Toilet paper3](Images/TPSS3.jpg "Toilet paper3")
