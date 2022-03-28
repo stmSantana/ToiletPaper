@@ -6,6 +6,7 @@ I created this little mod to write [a tutorial on how to create a TLD item mod](
 ![Toilet paper2](Images/TPSS2.jpg "Toilet paper2")
 ![Toilet paper3](Images/TPSS3.jpg "Toilet paper3")
 
+<br>(**NOTE:** *Gearspawner spawns all gear only on the first visit to each location. In other words, all mod items will not spawn in locations you have already visited.*)
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
