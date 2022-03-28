@@ -8,6 +8,10 @@ I created this little mod to write [a tutorial on how to create a TLD item mod](
 
 <br>(**NOTE:** *Gearspawner spawns all gear only on the first visit to each location. In other words, all mod items will not spawn in locations you have already visited.*)
 
+### Adding Items
+Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) CupRamen can be manually added to your inventory with the command `add toiletpapera` or `add toiletpaperb`.
+The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
+
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
